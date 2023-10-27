@@ -1,0 +1,17 @@
+.con{border: solid 1px black;}
+.con>div{height: 50px;
+    width: 200px;
+
+}
+.a{
+    float: left;
+    border: solid 3px red;
+}
+.b{
+    float: right;
+    border: solid 3px blue;
+}
+.c{
+    float: left;
+    border: solid 3px blueviolet;
+}

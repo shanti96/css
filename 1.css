@@ -1,0 +1,10 @@
+h1{
+    color: red;background-color: greenyellow;
+}
+p{
+    color: blue; background:yellow;
+    box-sizing: border-box;
+}
+.join{
+    padding: 12px; 
+} 

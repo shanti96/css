@@ -1,0 +1,22 @@
+
+body{ 
+    background-color:lightcyan;
+}
+h2{
+    text-align: center;
+}
+/*.contain{
+    padding: 50px;
+    background-color: antiquewhite;
+}
+input[type=text], input[type=password], textarea,input[type=email] {  
+    width: 100%;  
+    padding: 15px;  
+    margin: 5px 0 22px 0;  
+       
+  }  */
+  .contain ,.hall{
+    text-align: center;
+     padding: 10px; 
+  } 
+  

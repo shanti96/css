@@ -1,0 +1,22 @@
+
+*{box-sizing: border-box;}
+.box{
+    border: dotted 2px red;
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+}
+.box>div{
+    border: solid 2px black;
+    border-radius: 5px;
+    width: 100px;
+}
+.a{
+    flex-basis: 50px;
+}
+.b{
+    flex-basis: auto;
+}
+.c{
+    flex-basis: 200px;
+}

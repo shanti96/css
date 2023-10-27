@@ -1,0 +1,11 @@
+.box{
+    border: dotted 2px red;
+    width: 500px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.box>div{
+    border: solid 3px blue;
+    border-radius: 5px;
+
+}
